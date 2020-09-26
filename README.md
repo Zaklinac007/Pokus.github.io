@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 
-<html lang="cz" xmlns="http://www.w3.org/1999/xhtml">
-<head>
+    <html lang="cz" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
     <meta charset="utf-8" />
     <title>Hentai</title>
-    <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/737251111232339998/759455488143786004/icon.ico" type="image/x-icon">
 
     <style>
         body{
@@ -99,5 +99,5 @@
     <i></i>
 
 
-</body>
-</html>
+    </body>
+    </html>
