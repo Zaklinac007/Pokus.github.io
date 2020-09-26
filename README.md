@@ -5,8 +5,8 @@
     <meta charset="utf-8" />
     <title>Hentai</title>
     <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
-    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=SduO9oLYxl1D-JvoNi4TwUd8Mt8NGh-U5LPbsBjAy6WrGwe1bDji-PDGNYrAqZN1IgxN9wsEmBLkaK1yZK9H6k05i-mSn9WHtYjEsS96bFPoKmr_YI2-g5DNdmAALz4rQ1QvPuPsXUI3tgxaFW-QDw" charset="UTF-8"></script><style>
 
+    <style>
         body{
 
         }
@@ -44,10 +44,10 @@
 
 
 
-</head>
+     </head>
 
 
-<body background="background.png" bgproperties="fixed">
+     <body background="background.png" bgproperties="fixed">
     
     
     <div style="width: 1250px; margin-left:1222px; margin-right: 720px;">
